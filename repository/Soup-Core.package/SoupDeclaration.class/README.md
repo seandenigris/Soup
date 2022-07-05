@@ -1,1 +1,0 @@
-Representing a declaration

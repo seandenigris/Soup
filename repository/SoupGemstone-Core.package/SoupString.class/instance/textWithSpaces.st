@@ -1,3 +1,0 @@
-accessing
-textWithSpaces
-	^ self text , ' '

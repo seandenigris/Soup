@@ -1,3 +1,0 @@
-*soupgemstone-core
-isMatcher
-  ^ false

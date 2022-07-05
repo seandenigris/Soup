@@ -1,3 +1,0 @@
-convert
-convertSmartQuotesToHtml
-	convertSmartQuotesTo := #html
