@@ -20,5 +20,5 @@ Add the following code to your Metacello baseline or configuration
 ```
 spec 
    baseline: 'Soup' 
-   with: [ spec repository: 'github://Ducasse/Soup/' ]
+   with: [ spec repository: 'github://pharo-contributions/Soup/' ]
 ```
