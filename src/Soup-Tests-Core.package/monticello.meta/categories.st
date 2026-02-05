@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'Soup-Tests-Core'!
+self packageOrganizer ensurePackage: #'Soup-Tests-Core' withTags: #()!
